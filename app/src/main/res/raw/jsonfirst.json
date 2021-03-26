@@ -1,0 +1,42 @@
+[
+    {
+        "nama": "Aldi Ruwandi",
+        "Age": "17",
+        "Hobby": "Coding"
+    },
+    {
+        "nama": "Asep Kumis",
+        "Age": "34",
+        "Hobby": "Bajak Sawah"
+    },
+    {
+        "nama": "Umar KOreng",
+        "Age": "25",
+        "Hobby": "Nyangkul"
+    },
+    {
+        "nama": "Udin Kepo",
+        "Age": "45",
+        "Hobby": "Suling"
+    },
+    {
+        "nama": "Ujang Preman",
+        "Age": "31",
+        "Hobby": "Bacok Orang"
+    },
+    {
+        "nama": "Karto Gerobak",
+        "Age": "27",
+        "Hobby": "Makan Tekwan"
+    },
+    {
+        "nama": "Purwanto",
+        "Age": "26",
+        "Hobby": "Tambal Ban"
+    },
+    {
+        "nama": "Salim Dobleh",
+        "Age": "21",
+        "Hobby": "Mancing Belut"
+    }
+]
